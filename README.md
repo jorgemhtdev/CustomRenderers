@@ -1,6 +1,6 @@
 # Custom Renderers - Examples
  
-### Introduction
+### Introduction 
 
 ![](https://img.shields.io/teamcity/codebetter/bt428.svg) [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 # Custom hamburger icon MasterDetailPage
